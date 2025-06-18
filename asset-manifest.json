@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DugunDavetiye/static/css/main.ec2df621.css",
+    "main.js": "/DugunDavetiye/static/js/main.35b7457f.js",
+    "static/js/453.8300751b.chunk.js": "/DugunDavetiye/static/js/453.8300751b.chunk.js",
+    "static/media/cover.jpg": "/DugunDavetiye/static/media/cover.8a3bcf298de8d7d619eb.jpg",
+    "static/media/cloud-bg.jpg": "/DugunDavetiye/static/media/cloud-bg.79cd8761acd08b99baa1.jpg",
+    "index.html": "/DugunDavetiye/index.html",
+    "main.ec2df621.css.map": "/DugunDavetiye/static/css/main.ec2df621.css.map",
+    "main.35b7457f.js.map": "/DugunDavetiye/static/js/main.35b7457f.js.map",
+    "453.8300751b.chunk.js.map": "/DugunDavetiye/static/js/453.8300751b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec2df621.css",
+    "static/js/main.35b7457f.js"
+  ]
+}
