@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dugun/static/css/main.4aa6532c.css",
-    "main.js": "/dugun/static/js/main.e1a63ffd.js",
-    "static/js/453.8300751b.chunk.js": "/dugun/static/js/453.8300751b.chunk.js",
-    "static/media/cloud-bg.jpg": "/dugun/static/media/cloud-bg.79cd8761acd08b99baa1.jpg",
-    "index.html": "/dugun/index.html",
-    "main.4aa6532c.css.map": "/dugun/static/css/main.4aa6532c.css.map",
-    "main.e1a63ffd.js.map": "/dugun/static/js/main.e1a63ffd.js.map",
-    "453.8300751b.chunk.js.map": "/dugun/static/js/453.8300751b.chunk.js.map"
+    "main.css": "/DugunDavetiye/static/css/main.221af550.css",
+    "main.js": "/DugunDavetiye/static/js/main.b60a7b21.js",
+    "static/js/453.8300751b.chunk.js": "/DugunDavetiye/static/js/453.8300751b.chunk.js",
+    "static/media/cloud-bg.jpg": "/DugunDavetiye/static/media/cloud-bg.79cd8761acd08b99baa1.jpg",
+    "index.html": "/DugunDavetiye/index.html",
+    "main.221af550.css.map": "/DugunDavetiye/static/css/main.221af550.css.map",
+    "main.b60a7b21.js.map": "/DugunDavetiye/static/js/main.b60a7b21.js.map",
+    "453.8300751b.chunk.js.map": "/DugunDavetiye/static/js/453.8300751b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4aa6532c.css",
-    "static/js/main.e1a63ffd.js"
+    "static/css/main.221af550.css",
+    "static/js/main.b60a7b21.js"
   ]
 }
