@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/DugunDavetiye/static/css/main.221af550.css",
-    "main.js": "/DugunDavetiye/static/js/main.3895d563.js",
+    "main.js": "/DugunDavetiye/static/js/main.973f24db.js",
     "static/js/453.8300751b.chunk.js": "/DugunDavetiye/static/js/453.8300751b.chunk.js",
     "static/media/cloud-bg.jpg": "/DugunDavetiye/static/media/cloud-bg.79cd8761acd08b99baa1.jpg",
     "index.html": "/DugunDavetiye/index.html",
     "main.221af550.css.map": "/DugunDavetiye/static/css/main.221af550.css.map",
-    "main.3895d563.js.map": "/DugunDavetiye/static/js/main.3895d563.js.map",
+    "main.973f24db.js.map": "/DugunDavetiye/static/js/main.973f24db.js.map",
     "453.8300751b.chunk.js.map": "/DugunDavetiye/static/js/453.8300751b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.221af550.css",
-    "static/js/main.3895d563.js"
+    "static/js/main.973f24db.js"
   ]
 }
